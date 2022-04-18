@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://hezdon.github.io/csb-e0m0m0/static/css/main.c300a4c8.chunk.css",
+    "main.js": "https://hezdon.github.io/csb-e0m0m0/static/js/main.0bf50b00.chunk.js",
+    "main.js.map": "https://hezdon.github.io/csb-e0m0m0/static/js/main.0bf50b00.chunk.js.map",
+    "runtime-main.js": "https://hezdon.github.io/csb-e0m0m0/static/js/runtime-main.02a368b7.js",
+    "runtime-main.js.map": "https://hezdon.github.io/csb-e0m0m0/static/js/runtime-main.02a368b7.js.map",
+    "static/css/2.e495dbae.chunk.css": "https://hezdon.github.io/csb-e0m0m0/static/css/2.e495dbae.chunk.css",
+    "static/js/2.5df19020.chunk.js": "https://hezdon.github.io/csb-e0m0m0/static/js/2.5df19020.chunk.js",
+    "static/js/2.5df19020.chunk.js.map": "https://hezdon.github.io/csb-e0m0m0/static/js/2.5df19020.chunk.js.map",
+    "index.html": "https://hezdon.github.io/csb-e0m0m0/index.html",
+    "static/css/2.e495dbae.chunk.css.map": "https://hezdon.github.io/csb-e0m0m0/static/css/2.e495dbae.chunk.css.map",
+    "static/css/main.c300a4c8.chunk.css.map": "https://hezdon.github.io/csb-e0m0m0/static/css/main.c300a4c8.chunk.css.map",
+    "static/js/2.5df19020.chunk.js.LICENSE.txt": "https://hezdon.github.io/csb-e0m0m0/static/js/2.5df19020.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02a368b7.js",
+    "static/css/2.e495dbae.chunk.css",
+    "static/js/2.5df19020.chunk.js",
+    "static/css/main.c300a4c8.chunk.css",
+    "static/js/main.0bf50b00.chunk.js"
+  ]
+}
